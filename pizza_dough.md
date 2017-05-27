@@ -2,24 +2,36 @@
 
 ## Ingredients
 
-- 30g **Olive Oil**
-- 280g **Water**
+- 20g **Olive Oil**
+- 260g **Water**
 - 8g instant **Yeast**
 - 400g strong **Flour**
 - 10g **Salt**
 
 ## Method - Theromix
 
-Add **olive oil**, **water** and **yeast**. 1:00/37/1
+Add **flour**, **salt** and **yeast** to a seperate bowl and mix.
 
-Add **flour** and **salt**. 3:00/0/Dough.
+Add **olive oil** and **water** to Theromix.
 
-Roll into a ball, place in oiled bowl, cover and let prove for approx 1-2h.
+Add the **dry ingredients** in the seperate bowl to Thermoix. 2:00/0/Dough.
 
-Halve dough and flatten into an oiled or floured pizza tray. Let prove for at least 15mins prior to topping.
+Lightly kneed the dough until the dough comes together well ~1min.
+
+Divide dough in half, rolling each half in into a ball. Place each ball in an oiled bowl, cover and let prove for approx 1-2h.
+
+Flatten each ball onto a floured surface then transfer to a pizza peel or pizza tray and add toppings.
 
 ## Notes
 
-Makes two bases.
+Cooking depends on the result you want, toppings used etc. Cooking on a pizza stone at **240°C for 7mins** works pretty well.
+
+A simple way to knead dough in your hands:
+
+- dry and flour hands
+- flatten to rough oval using fingers and thumb (about the size of 1-2 hands)
+- fold in half
+- quarter turn
+- repeat
 
 Ratios based on wholemeal flour, you will need to reduce the liquid if using a less absorbent flour such as white.
