@@ -10,7 +10,7 @@
 - 1tsp **Bicarbonate Soda**
 
 
-# Method - Thermoix
+# Method - Thermomix
 
 Add **butter** and **sugar**, heat 1:00/70/1.
 
