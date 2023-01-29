@@ -2,5 +2,6 @@
 - [Braised Leg of Lamb](braised_lamb_leg.md)
 - [Bread Calculator](bread_calc.md)
 - [Muffins](muffins.md)
+- [Pizza Dough](pizza_dough.md)
 - [Pizza Sauce](pizza_sauce.md)
 - [Pumpkin Soup](pumpkin_soup.md)
