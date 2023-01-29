@@ -1,4 +1,5 @@
 - [Baked Cheesecake](baked_cheesecake.md)
-- [Banana Muffins](banana_muffins.md)
 - [Braised Leg of Lamb](braised_lamb_leg.md)
+- [Bread Calculator](bread_calc.md)
+- [Muffins](muffins.md)
 - [Pumpkin Soup](pumpkin_soup.md)
