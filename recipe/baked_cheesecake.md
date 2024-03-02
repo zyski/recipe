@@ -32,7 +32,7 @@ Add **eggs**, one at a time, beating each one until combined.
 
 Pour mixture into prepared base.
 
-Bake at **140&deg;C** for **55mins**. Top should be a very light golden brown, and jiggle slightly when shaken gently.
+Bake at **150&deg;C** for **55mins**. Top should be a very light golden brown, and jiggle slightly when shaken gently.
 
 Cool in the oven with door open for approx 30mins before refrigerating for 4+ hours.
 
