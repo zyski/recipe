@@ -1,6 +1,7 @@
 - [Baked Cheesecake](baked_cheesecake.md)
 - [Braised Leg of Lamb](braised_lamb_leg.md)
 - [Bread Calculator](bread_calc.md)
+- [Hummus](hummus.md)
 - [Muffins](muffins.md)
 - [Pizza Dough](pizza_dough.md)
 - [Pizza Sauce](pizza_sauce.md)
